@@ -1,0 +1,68 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #33ee16;
+
+}
+li{
+    float: left;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+}
+li,a{
+    padding: 20px;
+}
+li,a:hover{
+    color: #0a0ed5;
+}
+h3{
+    text-align: center;
+    color: #0a0ed5;
+    font-family: "DejaVu Sans Mono";
+}
+ul{
+    color: aquamarine;
+    font-size: 25px;
+}
+ol{
+    color: coral;
+    font-size: 18px;
+}
+li a:hover{
+    background-color: aquamarine;
+}
+.fruits{
+    background-color: coral;
+    border: 2px solid blue;
+    margin: 15px;
+    padding: 15px;
+    text-align: center;
+    color: white;
+
+}
+.cars{
+     background-color: #49f60e;
+    border: 2px dotted #8e73d0;
+    margin: 15px;
+    padding: 15px;
+    text-align: center;
+    color: #c71515;
+}
+.FRUITS{
+     background-color: #9d0ebd;
+    border: 2px solid #d3b90a;
+    margin: 15px;
+    padding: 15px;
+    text-align: center;
+    color: white;
+}
+#matunda{
+    background-color: #9d0ebd;
+    border: 5px dotted chartreuse;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
